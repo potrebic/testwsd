@@ -1,5 +1,3 @@
-This file is used by the TestProxy unit test. It contains 2 diagrams description.
-
 @startuml
 Jim -> Peter : give Plantuml a try
 Peter -> Jim : Awesome... embeds in GitHub
