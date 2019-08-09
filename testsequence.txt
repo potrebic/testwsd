@@ -2,5 +2,3 @@
 Jim -> Peter : give Plantuml a try
 Peter -> Jim : Awesome... embeds in GitHub
 @enduml
-
-
