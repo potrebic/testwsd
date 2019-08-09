@@ -1,9 +1,8 @@
 This file is used by the TestProxy unit test. It contains 2 diagrams description.
 
 @startuml
-Bob -> Alice : hello
+Jim -> Peter : give Plantuml a try
+Peter -> Jim : Awesome... embeds in GitHub
 @enduml
 
-@startuml
-version
-@enduml
+
